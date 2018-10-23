@@ -1,7 +1,7 @@
+
 # HTML5 Semantic Elements
 
-## Problem Statement
-
+## Introduction
 We have `div` elements to organize and label sections of HTML. But too many
 `div` tags makes our HTML document look cluttered and confusing. Even when we
 identify or classify them with specific names, it's a lot to keep track of. It
@@ -12,11 +12,11 @@ it's a _header_." We'll learn more about these _semantic_ elements in this
 lesson.
 
 ## Objectives
+You will be able to:
+* Explain the historical reasoning behind semantic elements
+* Demonstrate HTML5 semantic element use
 
-1. Explain the historical reasoning behind semantic elements
-2. Demonstrate HTML5 semantic element use
-
-## Explain the Historical Reasoning Behind Semantic Elements
+## ## Explain the Historical Reasoning Behind Semantic Elements
 
 When developers first began defining containers to structure HTML, they had only
 one generic element available to them: the `div`. Creating complex page layouts
@@ -113,16 +113,8 @@ while these elements are intended for certain content, there are no hard rules
 about how to configure them. You should feel comfortable configuring them in any
 way that makes the most sense to you and best suits your layout needs.
 
-## Conclusion
 
-If the content within an element is all semantically related, it is best
-practice to use the appropriate HTML5 semantic element if one applies. This
-cleans up our code and makes it more readable for developers and more
-descriptive to browsers. There are a variety of semantic elements you can use to
-structure your content, and you can also still use `div` elements to create
-generic boxes or grouping elements as needed.
-
-## Resources
+## Additional Resources
 
 - [Presentation Slides](https://docs.google.com/presentation/d/1tl0aB0EUOhLMi1Xr19UCAUTCY20FRqEDv-oDGg2cTkg/edit?usp=sharing)
 - [HTML5 Semantic Elements Lecture Video](https://www.youtube.com/embed/V28xLFEYaSQ)
@@ -130,3 +122,12 @@ generic boxes or grouping elements as needed.
 - [MDN - HTML - Element Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/HTML5-Semantic-Elements' title='HTML5 Semantic Elements'>HTML5 Semantic Elements</a> on Learn.co and start learning to code for free.</p>
+
+
+## Summary
+If the content within an element is all semantically related, it is best
+practice to use the appropriate HTML5 semantic element if one applies. This
+cleans up our code and makes it more readable for developers and more
+descriptive to browsers. There are a variety of semantic elements you can use to
+structure your content, and you can also still use `div` elements to create
+generic boxes or grouping elements as needed.

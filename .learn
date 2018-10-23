@@ -6,4 +6,12 @@ tags:
   - elements
 type:
   - lecture
-resources: 3
+resources: 3tags: 
+- jupyter 
+- python 
+
+languages: python 
+
+jupyter_notebook: true 
+
+resources: 0
