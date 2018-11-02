@@ -16,7 +16,7 @@ You will be able to:
 * Explain the historical reasoning behind semantic elements
 * Demonstrate HTML5 semantic element use
 
-## ## Explain the Historical Reasoning Behind Semantic Elements
+## Explain the Historical Reasoning Behind Semantic Elements
 
 When developers first began defining containers to structure HTML, they had only
 one generic element available to them: the `div`. Creating complex page layouts
