@@ -1,12 +1,4 @@
-languages:
-  - html
-tags:
-  - html5
-  - semantic
-  - elements
-type:
-  - lecture
-resources: 3tags: 
+tags: 
 - jupyter 
 - python 
 
