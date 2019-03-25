@@ -2,14 +2,7 @@
 # HTML5 Semantic Elements
 
 ## Introduction
-We have `div` elements to organize and label sections of HTML. But too many
-`div` tags makes our HTML document look cluttered and confusing. Even when we
-identify or classify them with specific names, it's a lot to keep track of. It
-would be clearer for both developers and browsers if we could use more
-descriptive HTML elements to arrange our content. That's where semantic
-elements come in. They allow us to say, "this isn't _just_ a division of text,
-it's a _header_." We'll learn more about these _semantic_ elements in this
-lesson.
+You've seen several html tags such as `head`, `body`, `title` and `p` which help organize the various sections of a webpage. The arbitrary container element to organize other pieces of html is a `div`. While flexible and versatile, too many `div` tags makes an HTML document look cluttered and confusing. Even when you identify or classify them with specific names, it's a lot to keep track of. It would be clearer for both developers and browsers to use more descriptive HTML elements to arrange content. That's where semantic elements come in. They allow you to say, "this isn't _just_ a division of text, it's a _header_." In this lesson, you'll learn more about these _semantic_ elements.
 
 ## Objectives
 You will be able to:
