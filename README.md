@@ -5,8 +5,9 @@
 You've seen several HTML tags such as `head`, `body`, `title`, and `p` which help organize the various sections of a webpage. The arbitrary container element to organize other pieces of HTML is a `div`. While flexible and versatile, too many `div` tags make an HTML document look cluttered and confusing. Even when you identify or classify them with specific names, it's a lot to keep track of. It would be clearer for both developers and browsers to use more descriptive HTML elements to arrange content. That's where semantic elements come in. They allow you to say, "this isn't _just_ a division of text, it's a _header_." In this lesson, you'll learn more about these _semantic_ elements.
 
 ## Objectives
-You will be able to:
-* Explain the historical reasoning behind semantic elements
+You will be able to:  
+
+* Explain the historical reasoning behind semantic elements  
 * Demonstrate HTML5 semantic element use
 
 ## Explain the Historical Reasoning Behind Semantic Elements
